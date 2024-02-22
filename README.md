@@ -4,4 +4,4 @@ The projects directory contains files and folders that require the file permissi
 ### Check file and directory details 
 
 The code that follows shows how I was able to find the current permissions assigned for a particular directory in the file system using Linux commands.
-<img src="(https://imgur.com/xoNnfMZ)">
+<img src="https://i.imgur.com/xoNnfMZ.png">
